@@ -1,0 +1,16 @@
+{
+  "name": "cstore",
+  "version": "1.0.0",
+  "description": "cstore lambda layer library",
+  "main": "index.js",
+  "dependencies": {
+    "shelljs": "^0.8.3",
+    "cstore": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kendavis2",
+  "license": "ISC"
+}

@@ -1,0 +1,7 @@
+*.tfstate*
+*.zip
+*.cstore
+*.tfvars
+*.terraform
+
+response.json
